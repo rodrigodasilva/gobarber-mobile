@@ -21,6 +21,6 @@ Button.propTypes = {
   loading: PropTypes.bool,
 };
 
-Button.defaul = {
+Button.defaultProps = {
   loading: false,
 };
